@@ -1,0 +1,1 @@
+INSERT INTO loja_horario(loja_id, horario_id) VALUES (loja, '18'), (1,'19');
